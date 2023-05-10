@@ -36,4 +36,4 @@ python combine_csv.py "/home/user/csv_files" "/home/user/output/combined.csv"
 
 
 ### License
-- Git-Ninja is released under the MIT License.
+- This project is licensed under the MIT License.
